@@ -1,0 +1,38 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: #06ec26;
+  font-style: italic;
+}
+.externalol{
+  font-style: italic;
+  text-decoration: underline;
+}
+
+ul{
+  letter-spacing: 5px;
+  color: brown;
+}
+
+.ulspan {
+  background-color: yellow;
+  font-weight: bold;
+}
+.one {
+  color: brown;
+  font-size: large;
+}
+.two {
+  color: brown;
+  font-size: xx-small;
+}
+.three {
+  color: brown;
+  font-style: italic;
+}
+a {
+  color: brown;
+  text-decoration: none;
+  }
